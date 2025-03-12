@@ -1,0 +1,7 @@
+C:\Users\RC_Student_lab\source\repos\Recipe Book CLI\bin\Debug\Recipe Book CLI.exe.config
+C:\Users\RC_Student_lab\source\repos\Recipe Book CLI\bin\Debug\Recipe Book CLI.exe
+C:\Users\RC_Student_lab\source\repos\Recipe Book CLI\bin\Debug\Recipe Book CLI.pdb
+C:\Users\RC_Student_lab\source\repos\Recipe Book CLI\obj\Debug\Recipe Book CLI.csproj.AssemblyReference.cache
+C:\Users\RC_Student_lab\source\repos\Recipe Book CLI\obj\Debug\Recipe Book CLI.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\source\repos\Recipe Book CLI\obj\Debug\Recipe Book CLI.exe
+C:\Users\RC_Student_lab\source\repos\Recipe Book CLI\obj\Debug\Recipe Book CLI.pdb
