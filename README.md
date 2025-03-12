@@ -7,7 +7,7 @@ and the program will display the recipe.
 
 1. Clone the repository:
 
-git clone https://github.com/st10438610/recipe-book-cli.git
+git clone https://github.com/st10438610/RecipeBook-CLI/tree/main/Recipe%20Book%20CLI
 
 2. Navigate to the project folder:
 
